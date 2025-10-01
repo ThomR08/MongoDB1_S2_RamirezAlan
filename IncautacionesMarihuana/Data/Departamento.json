@@ -1,0 +1,54 @@
+{"_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"codigoDepartamento":54,"nombre":"NORTE DE SANTANDER"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"codigoDepartamento":41,"nombre":"HUILA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"codigoDepartamento":85,"nombre":"CASANARE"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a747e"},"codigoDepartamento":59101,"nombre":"PANAMA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"codigoDepartamento":47,"nombre":"MAGDALENA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7480"},"codigoDepartamento":1112,"nombre":"MAR PACIFICO"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7481"},"codigoDepartamento":18801,"nombre":"COSTA RICA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7482"},"codigoDepartamento":55,"nombre":"BRASIL"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"codigoDepartamento":8,"nombre":"ATLANTICO"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7484"},"codigoDepartamento":15201,"nombre":"CHILE"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7485"},"codigoDepartamento":34001,"nombre":"HONDURAS"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7486"},"codigoDepartamento":21801,"nombre":"ECUADOR"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7487"},"codigoDepartamento":1111,"nombre":"AGUAS INTERNACIONALES"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7488"},"codigoDepartamento":81,"nombre":"ARAUCA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7489"},"codigoDepartamento":21401,"nombre":"REPUBLICA DOMINICANA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a748a"},"codigoDepartamento":6801,"nombre":"BOLIVIA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"codigoDepartamento":13,"nombre":"BOLIVAR"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"codigoDepartamento":68,"nombre":"SANTANDER"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"codigoDepartamento":50,"nombre":"META"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"codigoDepartamento":5,"nombre":"ANTIOQUIA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"codigoDepartamento":25,"nombre":"CUNDINAMARCA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7490"},"codigoDepartamento":60401,"nombre":"PERU"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"codigoDepartamento":20,"nombre":"CESAR"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7492"},"codigoDepartamento":72401,"nombre":"ESPAÑA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"codigoDepartamento":27,"nombre":"CHOCO"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"codigoDepartamento":18,"nombre":"CAQUETA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"codigoDepartamento":63,"nombre":"QUINDIO"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7496"},"codigoDepartamento":25001,"nombre":"FRANCIA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7497"},"codigoDepartamento":52801,"nombre":"PAISES BAJOS"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7498"},"codigoDepartamento":53001,"nombre":"ANTILLAS NEERLANDESAS"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a7499"},"codigoDepartamento":4401,"nombre":"BAHAMAS"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a749a"},"codigoDepartamento":63001,"nombre":"PUERTO RICO"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"codigoDepartamento":44,"nombre":"LA GUAJIRA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"codigoDepartamento":91,"nombre":"AMAZONAS"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"codigoDepartamento":17,"nombre":"CALDAS"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a749e"},"codigoDepartamento":53301,"nombre":"ARUBA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a749f"},"codigoDepartamento":7601,"nombre":"BRASIL"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a0"},"codigoDepartamento":84001,"nombre":"ESTADOS UNIDOS DE AMERICA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a1"},"codigoDepartamento":95,"nombre":"GUAVIARE"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"codigoDepartamento":66,"nombre":"RISARALDA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"codigoDepartamento":86,"nombre":"PUTUMAYO"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a4"},"codigoDepartamento":99,"nombre":"VICHADA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a5"},"codigoDepartamento":88,"nombre":"SAN ANDRES ISLAS"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a6"},"codigoDepartamento":11,"nombre":"BOGOTA D.C."}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"codigoDepartamento":52,"nombre":"NARIÑO"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"codigoDepartamento":76,"nombre":"VALLE DEL CAUCA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74a9"},"codigoDepartamento":97,"nombre":"VAUPES"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"codigoDepartamento":15,"nombre":"BOYACA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"codigoDepartamento":23,"nombre":"CORDOBA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74ac"},"codigoDepartamento":94,"nombre":"GUAINIA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74ad"},"codigoDepartamento":86201,"nombre":"VENEZUELA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"codigoDepartamento":73,"nombre":"TOLIMA"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"codigoDepartamento":70,"nombre":"SUCRE"}
+{"_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"codigoDepartamento":19,"nombre":"CAUCA"}

@@ -1,0 +1,1110 @@
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74f6"},"codigoMunicipio":47161,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"CERRO SAN ANTONIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74f7"},"codigoMunicipio":5674,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN VICENTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74f8"},"codigoMunicipio":5854,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"VALDIVIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74f9"},"codigoMunicipio":25281,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"FOSCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74fa"},"codigoMunicipio":73148,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"CARMEN DE APICALA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74fb"},"codigoMunicipio":5142,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CARACOLI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74fc"},"codigoMunicipio":15638,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SACHICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74fd"},"codigoMunicipio":68705,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SANTA BARBARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74fe"},"codigoMunicipio":13873,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"VILLANUEVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a74ff"},"codigoMunicipio":15106,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"BRICEÑO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7500"},"codigoMunicipio":41132,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"CAMPOALEGRE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7501"},"codigoMunicipio":17444,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"MARQUETALIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7502"},"codigoMunicipio":94343,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ac"},"nombre":"BARRANCO MINAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7503"},"codigoMunicipio":23182,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"CHINU"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7504"},"codigoMunicipio":23464,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"MOMIL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7505"},"codigoMunicipio":70124,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"CAIMITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7506"},"codigoMunicipio":19701,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"SANTA ROSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7507"},"codigoMunicipio":25491,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"NOCAIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7508"},"codigoMunicipio":52320,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"GUAITARILLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7509"},"codigoMunicipio":47318,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"GUAMAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a750a"},"codigoMunicipio":54099,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"BOCHALEMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a750b"},"codigoMunicipio":70708,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SAN MARCOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a750c"},"codigoMunicipio":23417,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"LORICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a750d"},"codigoMunicipio":19142,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"CALOTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a750e"},"codigoMunicipio":68235,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"EL CARMEN DE CHUCURI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a750f"},"codigoMunicipio":70400,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"LA UNION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7510"},"codigoMunicipio":17050,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"ARANZAZU"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7511"},"codigoMunicipio":41244,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"ELIAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7512"},"codigoMunicipio":23090,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"CANALETE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7513"},"codigoMunicipio":23419,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"LOS CORDOBAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7514"},"codigoMunicipio":23678,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"SAN CARLOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7515"},"codigoMunicipio":52354,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"IMUES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7516"},"codigoMunicipio":27600,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"RIO QUITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7517"},"codigoMunicipio":68468,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"MOLAGAVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7518"},"codigoMunicipio":5150,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CAROLINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7519"},"codigoMunicipio":5034,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ANDES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a751a"},"codigoMunicipio":15537,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"PAZ DE RIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a751b"},"codigoMunicipio":13440,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"MARGARITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a751c"},"codigoMunicipio":25518,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"PAIME"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a751d"},"codigoMunicipio":91530,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"PUERTO ALEGRIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a751e"},"codigoMunicipio":19110,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"BUENOS AIRES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a751f"},"codigoMunicipio":5197,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"COCORNA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7520"},"codigoMunicipio":13140,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"CALAMAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7521"},"codigoMunicipio":13458,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"MONTECRISTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7522"},"codigoMunicipio":15516,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"PAIPA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7523"},"codigoMunicipio":18094,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"BELEN DE LOS ANDAQUIES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7524"},"codigoMunicipio":73024,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ALPUJARRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7525"},"codigoMunicipio":5642,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SALGAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7526"},"codigoMunicipio":52685,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SAN BERNARDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7527"},"codigoMunicipio":44560,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"MANAURE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7528"},"codigoMunicipio":5861,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"VENECIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7529"},"codigoMunicipio":70233,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"EL ROBLE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a752a"},"codigoMunicipio":54239,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"DURANIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a752b"},"codigoMunicipio":15226,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CUITIVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a752c"},"codigoMunicipio":15676,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SAN MIGUEL DE SEMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a752d"},"codigoMunicipio":41799,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"TELLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a752e"},"codigoMunicipio":68524,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"PALMAS DEL SOCORRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a752f"},"codigoMunicipio":44430,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"MAICAO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7530"},"codigoMunicipio":52203,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"COLON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7531"},"codigoMunicipio":19585,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"PURACE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7532"},"codigoMunicipio":52838,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"TUQUERRES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7533"},"codigoMunicipio":68533,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"PARAMO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7534"},"codigoMunicipio":5088,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"BELLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7535"},"codigoMunicipio":25535,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"PASCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7536"},"codigoMunicipio":76113,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"BUGALAGRANDE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7537"},"codigoMunicipio":15839,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TUTAZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7538"},"codigoMunicipio":52378,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"LA CRUZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7539"},"codigoMunicipio":19622,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"ROSAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a753a"},"codigoMunicipio":88564,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a5"},"nombre":"PROVIDENCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a753b"},"codigoMunicipio":15236,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CHIVOR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a753c"},"codigoMunicipio":63190,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"CIRCASIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a753d"},"codigoMunicipio":44279,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"FONSECA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a753e"},"codigoMunicipio":50573,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"PUERTO LOPEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a753f"},"codigoMunicipio":27250,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"EL LITORAL DEL SAN JUAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7540"},"codigoMunicipio":41791,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"TARQUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7541"},"codigoMunicipio":2500101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7496"},"nombre":"FRANCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7542"},"codigoMunicipio":76111,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"GUADALAJARA DE BUGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7543"},"codigoMunicipio":13683,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SANTA ROSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7544"},"codigoMunicipio":68207,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CONCEPCION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7545"},"codigoMunicipio":5483,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"NARIÑO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7546"},"codigoMunicipio":73686,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"SANTA ISABEL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7547"},"codigoMunicipio":25524,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"PANDI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7548"},"codigoMunicipio":25596,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"QUIPILE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7549"},"codigoMunicipio":41026,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"ALTAMIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a754a"},"codigoMunicipio":15185,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CHITARAQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a754b"},"codigoMunicipio":18610,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"SAN JOSE DEL FRAGUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a754c"},"codigoMunicipio":44090,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"DIBULLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a754d"},"codigoMunicipio":27205,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"CONDOTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a754e"},"codigoMunicipio":52381,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"LA FLORIDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a754f"},"codigoMunicipio":20517,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"PAILITAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7550"},"codigoMunicipio":73616,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"RIOBLANCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7551"},"codigoMunicipio":15162,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CERINZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7552"},"codigoMunicipio":73319,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"GUAMO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7553"},"codigoMunicipio":41885,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"YAGUARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7554"},"codigoMunicipio":54003,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"ABREGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7555"},"codigoMunicipio":18001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"FLORENCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7556"},"codigoMunicipio":19130,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"CAJIBIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7557"},"codigoMunicipio":68669,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SAN ANDRES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7558"},"codigoMunicipio":52227,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"CUMBAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7559"},"codigoMunicipio":47460,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"NUEVA GRANADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a755a"},"codigoMunicipio":17614,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"RIOSUCIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a755b"},"codigoMunicipio":68167,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CHARALA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a755c"},"codigoMunicipio":23815,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"TUCHIN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a755d"},"codigoMunicipio":68318,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"GUACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a755e"},"codigoMunicipio":47675,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"SALAMINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a755f"},"codigoMunicipio":25740,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SIBATE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7560"},"codigoMunicipio":68655,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SABANA DE TORRES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7561"},"codigoMunicipio":85440,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"VILLANUEVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7562"},"codigoMunicipio":54174,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"CHITAGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7563"},"codigoMunicipio":25649,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SAN BERNARDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7564"},"codigoMunicipio":70418,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"LOS PALMITOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7565"},"codigoMunicipio":5910101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747e"},"nombre":"PANAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7566"},"codigoMunicipio":15531,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"PAUNA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7567"},"codigoMunicipio":86885,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"VILLAGARZON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7568"},"codigoMunicipio":68720,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SANTA HELENA DEL OPON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7569"},"codigoMunicipio":47058,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"ARIGUANI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a756a"},"codigoMunicipio":11001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a6"},"nombre":"BOGOTA D.C."}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a756b"},"codigoMunicipio":54660,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"SALAZAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a756c"},"codigoMunicipio":19137,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"CALDONO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a756d"},"codigoMunicipio":25754,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SOACHA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a756e"},"codigoMunicipio":23682,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"SAN JOSE DE URE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a756f"},"codigoMunicipio":52356,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"IPIALES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7570"},"codigoMunicipio":52696,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SANTA BARBARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7571"},"codigoMunicipio":5364,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"JARDIN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7572"},"codigoMunicipio":41801,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"TERUEL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7573"},"codigoMunicipio":73622,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"RONCESVALLES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7574"},"codigoMunicipio":68077,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"BARBOSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7575"},"codigoMunicipio":15491,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"NOBSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7576"},"codigoMunicipio":19824,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"TOTORO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7577"},"codigoMunicipio":25862,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"VERGARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7578"},"codigoMunicipio":13838,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"TURBANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7579"},"codigoMunicipio":68344,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"HATO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a757a"},"codigoMunicipio":15759,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SOGAMOSO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a757b"},"codigoMunicipio":15087,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"BELEN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a757c"},"codigoMunicipio":54743,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"SILOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a757d"},"codigoMunicipio":27430,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"MEDIO BAUDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a757e"},"codigoMunicipio":25839,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"UBALA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a757f"},"codigoMunicipio":76670,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"SAN PEDRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7580"},"codigoMunicipio":5576,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"PUEBLORRICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7581"},"codigoMunicipio":5490,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"NECOCLI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7582"},"codigoMunicipio":50450,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"PUERTO CONCORDIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7583"},"codigoMunicipio":68162,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CERRITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7584"},"codigoMunicipio":47692,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"SAN SEBASTIAN DE BUENAVISTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7585"},"codigoMunicipio":20443,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"MANAURE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7586"},"codigoMunicipio":76130,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"CANDELARIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7587"},"codigoMunicipio":44855,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"URUMITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7588"},"codigoMunicipio":76243,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"EL AGUILA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7589"},"codigoMunicipio":85325,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"SAN LUIS DE PALENQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a758a"},"codigoMunicipio":25035,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"ANAPOIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a758b"},"codigoMunicipio":5615,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"RIONEGRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a758c"},"codigoMunicipio":5306,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"GIRALDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a758d"},"codigoMunicipio":66088,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"BELEN DE UMBRIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a758e"},"codigoMunicipio":50223,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"CUBARRAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a758f"},"codigoMunicipio":19022,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"ALMAGUER"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7590"},"codigoMunicipio":25200,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"COGUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7591"},"codigoMunicipio":52258,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"EL TABLON DE GOMEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7592"},"codigoMunicipio":5809,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"TITIRIBI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7593"},"codigoMunicipio":73504,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ORTEGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7594"},"codigoMunicipio":25777,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SUPATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7595"},"codigoMunicipio":73349,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"HONDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7596"},"codigoMunicipio":52473,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"MOSQUERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7597"},"codigoMunicipio":5330101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749e"},"nombre":"ARUBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7598"},"codigoMunicipio":41503,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"OPORAPA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7599"},"codigoMunicipio":25095,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"BITUIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a759a"},"codigoMunicipio":52260,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"EL TAMBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a759b"},"codigoMunicipio":15296,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"GAMEZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a759c"},"codigoMunicipio":47660,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"SABANAS DE SAN ANGEL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a759d"},"codigoMunicipio":76246,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"EL CAIRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a759e"},"codigoMunicipio":25473,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"MOSQUERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a759f"},"codigoMunicipio":68298,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"GAMBITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a0"},"codigoMunicipio":5209,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CONCORDIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a1"},"codigoMunicipio":25299,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a2"},"codigoMunicipio":54172,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"CHINACOTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a3"},"codigoMunicipio":47570,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"PUEBLOVIEJO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a4"},"codigoMunicipio":68686,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SAN MIGUEL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a5"},"codigoMunicipio":52083,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"BELEN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a6"},"codigoMunicipio":15810,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TIPACOQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a7"},"codigoMunicipio":20621,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"LA PAZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a8"},"codigoMunicipio":25851,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"UTICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75a9"},"codigoMunicipio":15673,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SAN MATEO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75aa"},"codigoMunicipio":19397,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"LA VEGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ab"},"codigoMunicipio":15332,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"GUICAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ac"},"codigoMunicipio":15135,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CAMPOHERMOSO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ad"},"codigoMunicipio":5670,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN ROQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ae"},"codigoMunicipio":25178,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CHIPAQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75af"},"codigoMunicipio":25599,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"APULO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b0"},"codigoMunicipio":19780,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"SUAREZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b1"},"codigoMunicipio":52215,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"CORDOBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b2"},"codigoMunicipio":5628,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SABANALARGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b3"},"codigoMunicipio":19517,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"PAEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b4"},"codigoMunicipio":70771,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SUCRE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b5"},"codigoMunicipio":25530,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"PARATEBUENO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b6"},"codigoMunicipio":19533,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"PIAMONTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b7"},"codigoMunicipio":91263,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"EL ENCANTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b8"},"codigoMunicipio":73483,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"NATAGAIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75b9"},"codigoMunicipio":50606,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"RESTREPO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ba"},"codigoMunicipio":15798,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TENZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75bb"},"codigoMunicipio":97889,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a9"},"nombre":"YAVARATE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75bc"},"codigoMunicipio":54518,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"PAMPLONA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75bd"},"codigoMunicipio":54418,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"LOURDES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75be"},"codigoMunicipio":70473,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"MORROA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75bf"},"codigoMunicipio":5873,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"VIGIA DEL FUERTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c0"},"codigoMunicipio":5172,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CHIGORODO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c1"},"codigoMunicipio":44110,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"EL MOLINO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c2"},"codigoMunicipio":23660,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"SAHAGUN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c3"},"codigoMunicipio":19548,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"PIENDAMO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c4"},"codigoMunicipio":50251,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"EL CASTILLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c5"},"codigoMunicipio":73870,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"VILLAHERMOSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c6"},"codigoMunicipio":68255,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"EL PLAYON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c7"},"codigoMunicipio":41518,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"PAICOL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c8"},"codigoMunicipio":27491,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"NOVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75c9"},"codigoMunicipio":86001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"MOCOA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ca"},"codigoMunicipio":27800,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"UNGUIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75cb"},"codigoMunicipio":5315,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"GUADALUPE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75cc"},"codigoMunicipio":25377,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"LA CALERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75cd"},"codigoMunicipio":13042,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"ARENAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ce"},"codigoMunicipio":73624,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ROVIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75cf"},"codigoMunicipio":70215,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"COROZAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d0"},"codigoMunicipio":76233,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"DAGUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d1"},"codigoMunicipio":5697,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"EL SANTUARIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d2"},"codigoMunicipio":25151,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CAQUEZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d3"},"codigoMunicipio":5148,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"EL CARMEN DE VIBORAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d4"},"codigoMunicipio":5885,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"YALI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d5"},"codigoMunicipio":23500,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"MOÑITOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d6"},"codigoMunicipio":8421,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"LURUACO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d7"},"codigoMunicipio":86219,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"COLON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d8"},"codigoMunicipio":15740,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SIACHOQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75d9"},"codigoMunicipio":5761,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SOPETRAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75da"},"codigoMunicipio":17777,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"SUPIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75db"},"codigoMunicipio":15753,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SOATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75dc"},"codigoMunicipio":5480,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"MUTATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75dd"},"codigoMunicipio":25489,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"NIMAIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75de"},"codigoMunicipio":68322,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"GUAPOTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75df"},"codigoMunicipio":68895,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"ZAPATOCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e0"},"codigoMunicipio":91540,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"PUERTO NARIÑO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e1"},"codigoMunicipio":13212,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"CORDOBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e2"},"codigoMunicipio":8520,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"PALMAR DE VARELA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e3"},"codigoMunicipio":68176,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CHIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e4"},"codigoMunicipio":15790,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TASCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e5"},"codigoMunicipio":47030,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"ALGARROBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e6"},"codigoMunicipio":73030,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"AMBALEMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e7"},"codigoMunicipio":5591,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"PUERTO TRIUNFO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e8"},"codigoMunicipio":54344,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"HACARI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75e9"},"codigoMunicipio":73873,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"VILLARRICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ea"},"codigoMunicipio":25793,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TAUSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75eb"},"codigoMunicipio":76250,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"EL DOVIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ec"},"codigoMunicipio":15022,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"ALMEIDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ed"},"codigoMunicipio":1111,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7487"},"nombre":"AGUAS INTERNACIONALES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ee"},"codigoMunicipio":25430,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"MADRID"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ef"},"codigoMunicipio":15377,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"LABRANZAGRANDE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f0"},"codigoMunicipio":13620,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SAN CRISTOBAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f1"},"codigoMunicipio":41668,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"SAN AGUSTIN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f2"},"codigoMunicipio":41770,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"SUAZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f3"},"codigoMunicipio":5842,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"URAMITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f4"},"codigoMunicipio":52585,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"PUPIALES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f5"},"codigoMunicipio":25053,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"ARBELAEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f6"},"codigoMunicipio":47703,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"SAN ZENON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f7"},"codigoMunicipio":25807,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TIBIRITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f8"},"codigoMunicipio":73678,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"SAN LUIS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75f9"},"codigoMunicipio":25279,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"FOMEQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75fa"},"codigoMunicipio":17486,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"NEIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75fb"},"codigoMunicipio":44420,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"LA JAGUA DEL PILAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75fc"},"codigoMunicipio":94884,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ac"},"nombre":"PUERTO COLOMBIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75fd"},"codigoMunicipio":76863,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"VERSALLES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75fe"},"codigoMunicipio":8372,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"JUAN DE ACOSTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a75ff"},"codigoMunicipio":13580,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"REGIDOR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7600"},"codigoMunicipio":54480,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"MUTISCUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7601"},"codigoMunicipio":81001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7488"},"nombre":"ARAUCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7602"},"codigoMunicipio":27413,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"LLORO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7603"},"codigoMunicipio":25592,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"QUEBRADANEGRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7604"},"codigoMunicipio":19318,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"GUAPI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7605"},"codigoMunicipio":41676,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"SANTA MARIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7606"},"codigoMunicipio":44847,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"URIBIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7607"},"codigoMunicipio":19290,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"FLORENCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7608"},"codigoMunicipio":52110,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"BUESACO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7609"},"codigoMunicipio":63401,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"LA TEBAIDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a760a"},"codigoMunicipio":17042,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"ANSERMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a760b"},"codigoMunicipio":54820,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"TOLEDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a760c"},"codigoMunicipio":25001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"AGUA DE DIOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a760d"},"codigoMunicipio":68464,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"MOGOTES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a760e"},"codigoMunicipio":50318,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"GUAMAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a760f"},"codigoMunicipio":50325,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"MAPIRIPAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7610"},"codigoMunicipio":18460,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"MILAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7611"},"codigoMunicipio":8685,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"SANTO TOMAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7612"},"codigoMunicipio":88001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a5"},"nombre":"SAN ANDRES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7613"},"codigoMunicipio":85230,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"OROCUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7614"},"codigoMunicipio":5656,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN JERONIMO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7615"},"codigoMunicipio":13430,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"MAGANGUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7616"},"codigoMunicipio":23300,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"COTORRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7617"},"codigoMunicipio":5664,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN PEDRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7618"},"codigoMunicipio":25817,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TOCANCIPA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7619"},"codigoMunicipio":66400,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"LA VIRGINIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a761a"},"codigoMunicipio":52565,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"PROVIDENCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a761b"},"codigoMunicipio":8560,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"PONEDERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a761c"},"codigoMunicipio":50110,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"BARRANCA DE UPIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a761d"},"codigoMunicipio":5543,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"PEQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a761e"},"codigoMunicipio":76616,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"RIOFRIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a761f"},"codigoMunicipio":18029,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"ALBANIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7620"},"codigoMunicipio":20228,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"CURUMANI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7621"},"codigoMunicipio":41660,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"SALADOBLANCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7622"},"codigoMunicipio":15224,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CUCAITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7623"},"codigoMunicipio":50001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"VILLAVICENCIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7624"},"codigoMunicipio":47541,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"PEDRAZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7625"},"codigoMunicipio":13836,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"TURBACO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7626"},"codigoMunicipio":54377,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"LABATECA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7627"},"codigoMunicipio":17877,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"VITERBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7628"},"codigoMunicipio":20032,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"ASTREA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7629"},"codigoMunicipio":52385,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"LA LLANADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a762a"},"codigoMunicipio":15464,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"MONGUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a762b"},"codigoMunicipio":5467,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"MONTEBELLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a762c"},"codigoMunicipio":73275,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"FLANDES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a762d"},"codigoMunicipio":68079,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"BARICHARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a762e"},"codigoMunicipio":66594,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"QUINCHIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a762f"},"codigoMunicipio":66001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"PEREIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7630"},"codigoMunicipio":17524,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"PALESTINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7631"},"codigoMunicipio":76895,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"ZARZAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7632"},"codigoMunicipio":68684,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SAN JOSE DE MIRANDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7633"},"codigoMunicipio":15051,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"ARCABUCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7634"},"codigoMunicipio":68209,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CONFINES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7635"},"codigoMunicipio":54001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"CUCUTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7636"},"codigoMunicipio":41615,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"RIVERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7637"},"codigoMunicipio":25580,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"PULI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7638"},"codigoMunicipio":15507,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"OTANCHE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7639"},"codigoMunicipio":5125,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CAICEDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a763a"},"codigoMunicipio":5086,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"BELMIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a763b"},"codigoMunicipio":97001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a9"},"nombre":"MITU"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a763c"},"codigoMunicipio":20060,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"BOSCONIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a763d"},"codigoMunicipio":41797,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"TESALIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a763e"},"codigoMunicipio":27073,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"BAGADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a763f"},"codigoMunicipio":15814,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TOCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7640"},"codigoMunicipio":52022,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"ALDANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7641"},"codigoMunicipio":73671,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"SALDAÑA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7642"},"codigoMunicipio":76736,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"SEVILLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7643"},"codigoMunicipio":63548,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"PIJAO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7644"},"codigoMunicipio":52254,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"EL PEÑOL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7645"},"codigoMunicipio":76606,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"RESTREPO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7646"},"codigoMunicipio":19050,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"ARGELIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7647"},"codigoMunicipio":15723,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SATIVASUR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7648"},"codigoMunicipio":13300,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"HATILLO DE LOBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7649"},"codigoMunicipio":5145,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CARAMANTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a764a"},"codigoMunicipio":27075,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"BAHIA SOLANO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a764b"},"codigoMunicipio":13030,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"ALTOS DEL ROSARIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a764c"},"codigoMunicipio":17662,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"SAMANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a764d"},"codigoMunicipio":76400,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"LA UNION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a764e"},"codigoMunicipio":41306,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"GIGANTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a764f"},"codigoMunicipio":66456,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"MISTRATO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7650"},"codigoMunicipio":25594,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"QUETAME"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7651"},"codigoMunicipio":25483,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"NARIÑO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7652"},"codigoMunicipio":19809,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"TIMBIQUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7653"},"codigoMunicipio":25815,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TOCAIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7654"},"codigoMunicipio":25086,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"BELTRAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7655"},"codigoMunicipio":68549,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"PINCHOTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7656"},"codigoMunicipio":5856,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"VALPARAISO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7657"},"codigoMunicipio":41359,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"ISNOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7658"},"codigoMunicipio":2140101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7489"},"nombre":"REPUBLICA DOMINICANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7659"},"codigoMunicipio":70429,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"MAJAGUAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a765a"},"codigoMunicipio":73585,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"PURIFICACION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a765b"},"codigoMunicipio":50590,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"PUERTO RICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a765c"},"codigoMunicipio":50680,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"SAN CARLOS DE GUAROA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a765d"},"codigoMunicipio":5038,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ANGOSTURA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a765e"},"codigoMunicipio":5756,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SONSON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a765f"},"codigoMunicipio":73226,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"CUNDAY"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7660"},"codigoMunicipio":76520,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"PALMIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7661"},"codigoMunicipio":54051,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"ARBOLEDAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7662"},"codigoMunicipio":25898,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"ZIPACON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7663"},"codigoMunicipio":5390,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"LA PINTADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7664"},"codigoMunicipio":25324,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GUATAQUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7665"},"codigoMunicipio":68250,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"EL PEÑON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7666"},"codigoMunicipio":8634,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"SABANAGRANDE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7667"},"codigoMunicipio":73268,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ESPINAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7668"},"codigoMunicipio":13673,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SANTA CATALINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7669"},"codigoMunicipio":25823,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TOPAIPI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a766a"},"codigoMunicipio":18860,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"VALPARAISO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a766b"},"codigoMunicipio":15500,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"OICATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a766c"},"codigoMunicipio":41872,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"VILLAVIEJA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a766d"},"codigoMunicipio":15646,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SAMACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a766e"},"codigoMunicipio":25293,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GACHALA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a766f"},"codigoMunicipio":41078,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"BARAYA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7670"},"codigoMunicipio":8296,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"GALAPA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7671"},"codigoMunicipio":5079,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"BARBOSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7672"},"codigoMunicipio":25486,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"NEMOCON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7673"},"codigoMunicipio":15403,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"LA UVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7674"},"codigoMunicipio":52207,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"CONSACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7675"},"codigoMunicipio":15696,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SANTA SOFIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7676"},"codigoMunicipio":54520,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"PAMPLONITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7677"},"codigoMunicipio":68682,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SAN JOAQUIN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7678"},"codigoMunicipio":68418,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"LOS SANTOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7679"},"codigoMunicipio":25645,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SAN ANTONIO DEL TEQUENDAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a767a"},"codigoMunicipio":15837,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TUTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a767b"},"codigoMunicipio":50400,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"LEJANIAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a767c"},"codigoMunicipio":25488,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"NILO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a767d"},"codigoMunicipio":41013,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"AGRADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a767e"},"codigoMunicipio":5318,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"GUARNE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a767f"},"codigoMunicipio":23672,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"SAN ANTERO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7680"},"codigoMunicipio":52786,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"TAMINANGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7681"},"codigoMunicipio":25394,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"LA PALMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7682"},"codigoMunicipio":63302,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"GENOVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7683"},"codigoMunicipio":68160,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CEPITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7684"},"codigoMunicipio":66170,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"DOSQUEBRADAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7685"},"codigoMunicipio":8400101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a0"},"nombre":"ESTADOS UNIDOS DE AMERICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7686"},"codigoMunicipio":52427,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"MAGUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7687"},"codigoMunicipio":41524,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"PALERMO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7688"},"codigoMunicipio":52411,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"LINARES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7689"},"codigoMunicipio":15469,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"MONIQUIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a768a"},"codigoMunicipio":20175,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"CHIMICHAGUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a768b"},"codigoMunicipio":25290,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"FUSAGASUGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a768c"},"codigoMunicipio":68179,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CHIPATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a768d"},"codigoMunicipio":25878,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"VIOTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a768e"},"codigoMunicipio":52573,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"PUERRES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a768f"},"codigoMunicipio":5361,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ITUANGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7690"},"codigoMunicipio":25736,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SESQUILE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7691"},"codigoMunicipio":20310,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"GONZALEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7692"},"codigoMunicipio":13667,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SAN MARTIN DE LOBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7693"},"codigoMunicipio":15047,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"AQUITANIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7694"},"codigoMunicipio":25875,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"VILLETA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7695"},"codigoMunicipio":17541,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"PENSILVANIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7696"},"codigoMunicipio":68500,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"OIBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7697"},"codigoMunicipio":25799,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TENJO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7698"},"codigoMunicipio":25320,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GUADUAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7699"},"codigoMunicipio":73675,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"SAN ANTONIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a769a"},"codigoMunicipio":5604,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"REMEDIOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a769b"},"codigoMunicipio":8758,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"SOLEDAD"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a769c"},"codigoMunicipio":15720,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SATIVANORTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a769d"},"codigoMunicipio":81591,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7488"},"nombre":"PUERTO RONDON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a769e"},"codigoMunicipio":17013,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"AGUADAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a769f"},"codigoMunicipio":13248,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"EL GUAMO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a0"},"codigoMunicipio":15667,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SAN LUIS DE GACENO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a1"},"codigoMunicipio":5021,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ALEJANDRIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a2"},"codigoMunicipio":68861,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"VELEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a3"},"codigoMunicipio":5686,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SANTA ROSA DE OSOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a4"},"codigoMunicipio":95025,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a1"},"nombre":"EL RETORNO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a5"},"codigoMunicipio":76377,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"LA CUMBRE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a6"},"codigoMunicipio":19392,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"LA SIERRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a7"},"codigoMunicipio":20045,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"BECERRIL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a8"},"codigoMunicipio":18205,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"CURILLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76a9"},"codigoMunicipio":17867,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"VICTORIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76aa"},"codigoMunicipio":52687,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SAN LORENZO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ab"},"codigoMunicipio":5847,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"URRAO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ac"},"codigoMunicipio":25123,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CACHIPAY"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ad"},"codigoMunicipio":8001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"BARRANQUILLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ae"},"codigoMunicipio":5792,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"TARSO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76af"},"codigoMunicipio":76845,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"ULLOA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b0"},"codigoMunicipio":27361,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"ISTMINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b1"},"codigoMunicipio":81220,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7488"},"nombre":"CRAVO NORTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b2"},"codigoMunicipio":8137,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"CAMPO DE LA CRUZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b3"},"codigoMunicipio":27425,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"MEDIO ATRATO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b4"},"codigoMunicipio":68397,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"LA PAZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b5"},"codigoMunicipio":5658,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN JOSE DE LA MONTAÑA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b6"},"codigoMunicipio":70713,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SAN ONOFRE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b7"},"codigoMunicipio":19698,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"SANTANDER DE QUILICHAO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b8"},"codigoMunicipio":54670,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"SAN CALIXTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76b9"},"codigoMunicipio":68001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"BUCARAMANGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ba"},"codigoMunicipio":8141,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"CANDELARIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76bb"},"codigoMunicipio":91407,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"LA PEDRERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76bc"},"codigoMunicipio":68522,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"PALMAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76bd"},"codigoMunicipio":15808,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TINJACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76be"},"codigoMunicipio":17442,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"MARMATO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76bf"},"codigoMunicipio":5042,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SANTAFE DE ANTIOQUIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c0"},"codigoMunicipio":73411,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"LIBANO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c1"},"codigoMunicipio":68217,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"COROMORO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c2"},"codigoMunicipio":23555,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"PLANETA RICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c3"},"codigoMunicipio":17272,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"FILADELFIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c4"},"codigoMunicipio":54385,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"LA ESPERANZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c5"},"codigoMunicipio":44001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"RIOHACHA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c6"},"codigoMunicipio":15218,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"COVARACHIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c7"},"codigoMunicipio":44035,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"ALBANIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c8"},"codigoMunicipio":50006,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"ACACIAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76c9"},"codigoMunicipio":25718,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SASAIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ca"},"codigoMunicipio":52621,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"ROBERTO PAYAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76cb"},"codigoMunicipio":41016,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"AIPE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76cc"},"codigoMunicipio":5250,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"EL BAGRE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76cd"},"codigoMunicipio":25224,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CUCUNUBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ce"},"codigoMunicipio":52323,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"GUALMATAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76cf"},"codigoMunicipio":15816,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TOGUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d0"},"codigoMunicipio":50683,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"SAN JUAN DE ARAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d1"},"codigoMunicipio":41349,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"HOBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d2"},"codigoMunicipio":54398,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"LA PLAYA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d3"},"codigoMunicipio":68264,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"ENCINO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d4"},"codigoMunicipio":85250,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"PAZ DE ARIPORO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d5"},"codigoMunicipio":8770,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"SUAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d6"},"codigoMunicipio":17495,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"NORCASIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d7"},"codigoMunicipio":85263,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"PORE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d8"},"codigoMunicipio":15763,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SOTAQUIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76d9"},"codigoMunicipio":13001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"CARTAGENA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76da"},"codigoMunicipio":5376,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"LA CEJA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76db"},"codigoMunicipio":68745,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SIMACOTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76dc"},"codigoMunicipio":52079,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"BARBACOAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76dd"},"codigoMunicipio":5045,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"APARTADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76de"},"codigoMunicipio":52699,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SANTACRUZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76df"},"codigoMunicipio":15215,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CORRALES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e0"},"codigoMunicipio":73347,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"HERVEO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e1"},"codigoMunicipio":47707,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"SANTA ANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e2"},"codigoMunicipio":85225,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"NUNCHIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e3"},"codigoMunicipio":85010,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"AGUAZUL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e4"},"codigoMunicipio":70823,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"TOLU VIEJO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e5"},"codigoMunicipio":73520,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"PALOCABILDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e6"},"codigoMunicipio":94883,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ac"},"nombre":"SAN FELIPE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e7"},"codigoMunicipio":5206,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CONCEPCION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e8"},"codigoMunicipio":5579,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"PUERTO BERRIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76e9"},"codigoMunicipio":5679,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SANTA BARBARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ea"},"codigoMunicipio":15299,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"GARAGOA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76eb"},"codigoMunicipio":5154,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CAUCASIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ec"},"codigoMunicipio":68092,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"BETULIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ed"},"codigoMunicipio":81065,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7488"},"nombre":"ARAUQUITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ee"},"codigoMunicipio":15693,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SANTA ROSA DE VITERBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ef"},"codigoMunicipio":85410,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"TAURAMENA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f0"},"codigoMunicipio":76828,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"TRUJILLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f1"},"codigoMunicipio":66687,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"SANTUARIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f2"},"codigoMunicipio":5887,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"YARUMAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f3"},"codigoMunicipio":54553,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"PUERTO SANTANDER"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f4"},"codigoMunicipio":20614,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"RIO DE ORO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f5"},"codigoMunicipio":76497,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"OBANDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f6"},"codigoMunicipio":63272,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"FILANDIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f7"},"codigoMunicipio":25885,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"YACOPI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f8"},"codigoMunicipio":66572,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"PUEBLO RICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76f9"},"codigoMunicipio":54206,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"CONVENCION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76fa"},"codigoMunicipio":73152,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"CASABIANCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76fb"},"codigoMunicipio":44650,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"SAN JUAN DEL CESAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76fc"},"codigoMunicipio":47605,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"REMOLINO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76fd"},"codigoMunicipio":41319,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"GUADALUPE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76fe"},"codigoMunicipio":15380,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"LA CAPILLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a76ff"},"codigoMunicipio":52678,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SAMANIEGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7700"},"codigoMunicipio":68502,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"ONZAGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7701"},"codigoMunicipio":5093,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"BETULIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7702"},"codigoMunicipio":54313,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"GRAMALOTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7703"},"codigoMunicipio":66383,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"LA CELIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7704"},"codigoMunicipio":19418,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"LOPEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7705"},"codigoMunicipio":68020,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"ALBANIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7706"},"codigoMunicipio":20250,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"EL PASO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7707"},"codigoMunicipio":85001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"YOPAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7708"},"codigoMunicipio":1112,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7480"},"nombre":"MAR PACIFICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7709"},"codigoMunicipio":68425,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"MACARAVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a770a"},"codigoMunicipio":68266,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"ENCISO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a770b"},"codigoMunicipio":68689,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SAN VICENTE DE CHUCURI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a770c"},"codigoMunicipio":15276,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"FLORESTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a770d"},"codigoMunicipio":15511,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"PACHAVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a770e"},"codigoMunicipio":52051,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"ARBOLEDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a770f"},"codigoMunicipio":19001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"POPAYAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7710"},"codigoMunicipio":5044,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ANZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7711"},"codigoMunicipio":76248,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"EL CERRITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7712"},"codigoMunicipio":5107,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"BRICEÑO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7713"},"codigoMunicipio":23001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"MONTERIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7714"},"codigoMunicipio":20770,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"SAN MARTIN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7715"},"codigoMunicipio":25658,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SAN FRANCISCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7716"},"codigoMunicipio":47960,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"ZAPAYAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7717"},"codigoMunicipio":15407,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"VILLA DE LEYVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7718"},"codigoMunicipio":50245,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"EL CALVARIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7719"},"codigoMunicipio":25288,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"FUQUENE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a771a"},"codigoMunicipio":27160,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"CERTEGUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a771b"},"codigoMunicipio":52287,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"FUNES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a771c"},"codigoMunicipio":66682,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"SANTA ROSA DE CABAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a771d"},"codigoMunicipio":27810,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"UNION PANAMERICANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a771e"},"codigoMunicipio":73449,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"MELGAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a771f"},"codigoMunicipio":5347,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"HELICONIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7720"},"codigoMunicipio":13688,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SANTA ROSA DEL SUR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7721"},"codigoMunicipio":68190,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CIMITARRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7722"},"codigoMunicipio":25181,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CHOACHI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7723"},"codigoMunicipio":50150,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"CASTILLA LA NUEVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7724"},"codigoMunicipio":99624,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a4"},"nombre":"SANTA ROSALIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7725"},"codigoMunicipio":25899,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"ZIPAQUIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7726"},"codigoMunicipio":52210,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"CONTADERO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7727"},"codigoMunicipio":68385,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"LANDAZURI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7728"},"codigoMunicipio":25781,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SUTATAUSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7729"},"codigoMunicipio":5890,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"YOLOMBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a772a"},"codigoMunicipio":5031,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"AMALFI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a772b"},"codigoMunicipio":70678,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SAN BENITO ABAD"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a772c"},"codigoMunicipio":70221,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"COVEÑAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a772d"},"codigoMunicipio":70670,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SAMPUES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a772e"},"codigoMunicipio":15476,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"MOTAVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a772f"},"codigoMunicipio":15480,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"MUZO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7730"},"codigoMunicipio":13647,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SAN ESTANISLAO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7731"},"codigoMunicipio":54599,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"RAGONVALIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7732"},"codigoMunicipio":52885,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"YACUANQUER"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7733"},"codigoMunicipio":70820,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SANTIAGO DE TOLU"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7734"},"codigoMunicipio":52480,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"NARIÑO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7735"},"codigoMunicipio":5310,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"GOMEZ PLATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7736"},"codigoMunicipio":5495,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"NECHI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7737"},"codigoMunicipio":85162,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"MONTERREY"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7738"},"codigoMunicipio":41396,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"LA PLATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7739"},"codigoMunicipio":15820,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TOPAGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a773a"},"codigoMunicipio":47245,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"EL BANCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a773b"},"codigoMunicipio":52001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"PASTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a773c"},"codigoMunicipio":47798,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"TENERIFE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a773d"},"codigoMunicipio":17873,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"VILLAMARIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a773e"},"codigoMunicipio":68547,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"PIEDECUESTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a773f"},"codigoMunicipio":52683,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SANDONA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7740"},"codigoMunicipio":25326,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GUATAVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7741"},"codigoMunicipio":81736,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7488"},"nombre":"SARAVENA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7742"},"codigoMunicipio":73283,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"FRESNO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7743"},"codigoMunicipio":5212,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"COPACABANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7744"},"codigoMunicipio":23686,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"SAN PELAYO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7745"},"codigoMunicipio":25307,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GIRARDOT"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7746"},"codigoMunicipio":5051,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ARBOLETES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7747"},"codigoMunicipio":13760,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SOPLAVIENTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7748"},"codigoMunicipio":5607,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"RETIRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7749"},"codigoMunicipio":54810,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"TIBU"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a774a"},"codigoMunicipio":8433,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"MALAMBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a774b"},"codigoMunicipio":73854,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"VALLE DE SAN JUAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a774c"},"codigoMunicipio":5129,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CALDAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a774d"},"codigoMunicipio":50226,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"CUMARAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a774e"},"codigoMunicipio":52250,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"EL CHARCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a774f"},"codigoMunicipio":52720,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SAPUYES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7750"},"codigoMunicipio":95015,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a1"},"nombre":"CALAMAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7751"},"codigoMunicipio":5736,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SEGOVIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7752"},"codigoMunicipio":8558,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"POLONUEVO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7753"},"codigoMunicipio":23079,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"BUENAVISTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7754"},"codigoMunicipio":50330,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"MESETAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7755"},"codigoMunicipio":52317,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"GUACHUCAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7756"},"codigoMunicipio":25436,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"MANTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7757"},"codigoMunicipio":17446,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"MARULANDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7758"},"codigoMunicipio":18150,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"CARTAGENA DEL CHAIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7759"},"codigoMunicipio":68271,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"FLORIAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a775a"},"codigoMunicipio":54125,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"CACOTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a775b"},"codigoMunicipio":66075,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"BALBOA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a775c"},"codigoMunicipio":20238,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"EL COPEY"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a775d"},"codigoMunicipio":15681,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SAN PABLO DE BORBUR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a775e"},"codigoMunicipio":54871,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"VILLA CARO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a775f"},"codigoMunicipio":73236,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"DOLORES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7760"},"codigoMunicipio":19450,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"MERCADERES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7761"},"codigoMunicipio":15090,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"BERBEO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7762"},"codigoMunicipio":15362,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"IZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7763"},"codigoMunicipio":70717,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SAN PEDRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7764"},"codigoMunicipio":8436,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"MANATI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7765"},"codigoMunicipio":86757,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"SAN MIGUEL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7766"},"codigoMunicipio":68327,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"GUEPSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7767"},"codigoMunicipio":25168,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CHAGUANI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7768"},"codigoMunicipio":73461,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"MURILLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7769"},"codigoMunicipio":13222,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"CLEMENCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a776a"},"codigoMunicipio":19807,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"TIMBIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a776b"},"codigoMunicipio":85015,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"CHAMEZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a776c"},"codigoMunicipio":47720,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"SANTA BARBARA DE PINTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a776d"},"codigoMunicipio":52520,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"FRANCISCO PIZARRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a776e"},"codigoMunicipio":41483,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"NATAGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a776f"},"codigoMunicipio":5360,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ITAGUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7770"},"codigoMunicipio":5036,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ANGELOPOLIS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7771"},"codigoMunicipio":25368,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"JERUSALEN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7772"},"codigoMunicipio":5411,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"LIBORINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7773"},"codigoMunicipio":13490,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"NOROSI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7774"},"codigoMunicipio":27050,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"ATRATO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7775"},"codigoMunicipio":68276,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"FLORIDABLANCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7776"},"codigoMunicipio":5790,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"TARAZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7777"},"codigoMunicipio":91669,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"PUERTO SANTANDER"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7778"},"codigoMunicipio":68368,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"JESUS MARIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7779"},"codigoMunicipio":76563,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"PRADERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a777a"},"codigoMunicipio":25743,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SILVANIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a777b"},"codigoMunicipio":25407,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"LENGUAZAQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a777c"},"codigoMunicipio":5659,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN JUAN DE URABA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a777d"},"codigoMunicipio":3400101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7485"},"nombre":"HONDURAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a777e"},"codigoMunicipio":68081,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"BARRANCABERMEJA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a777f"},"codigoMunicipio":5284,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"FRONTINO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7780"},"codigoMunicipio":50689,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"SAN MARTIN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7781"},"codigoMunicipio":47053,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"ARACATACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7782"},"codigoMunicipio":70508,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"OVEJAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7783"},"codigoMunicipio":68152,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CARCASI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7784"},"codigoMunicipio":70110,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"BUENAVISTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7785"},"codigoMunicipio":5138,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CAÑASGORDAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7786"},"codigoMunicipio":17653,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"SALAMINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7787"},"codigoMunicipio":17388,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"LA MERCED"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7788"},"codigoMunicipio":15686,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SANTANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7789"},"codigoMunicipio":15212,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"COPER"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a778a"},"codigoMunicipio":6040101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7490"},"nombre":"PERU"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a778b"},"codigoMunicipio":5055,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ARGELIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a778c"},"codigoMunicipio":23580,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"PUERTO LIBERTADOR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a778d"},"codigoMunicipio":73168,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"CHAPARRAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a778e"},"codigoMunicipio":73408,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"LERIDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a778f"},"codigoMunicipio":5101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CIUDAD BOLIVAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7790"},"codigoMunicipio":70235,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"GALERAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7791"},"codigoMunicipio":86571,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"PUERTO GUZMAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7792"},"codigoMunicipio":5190,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CISNEROS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7793"},"codigoMunicipio":52036,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"ANCUYA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7794"},"codigoMunicipio":15455,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"MIRAFLORES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7795"},"codigoMunicipio":50287,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"FUENTE DE ORO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7796"},"codigoMunicipio":15189,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CIENEGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7797"},"codigoMunicipio":41378,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"LA ARGENTINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7798"},"codigoMunicipio":760101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749f"},"nombre":"BRASIL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7799"},"codigoMunicipio":6300101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749a"},"nombre":"PUERTO RICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a779a"},"codigoMunicipio":73001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"IBAGUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a779b"},"codigoMunicipio":52693,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SAN PABLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a779c"},"codigoMunicipio":5893,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"YONDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a779d"},"codigoMunicipio":25183,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CHOCONTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a779e"},"codigoMunicipio":19785,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"SUCRE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a779f"},"codigoMunicipio":23570,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"PUEBLO NUEVO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a0"},"codigoMunicipio":5667,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN RAFAEL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a1"},"codigoMunicipio":85279,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"RECETOR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a2"},"codigoMunicipio":5501,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"OLAYA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a3"},"codigoMunicipio":17616,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"RISARALDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a4"},"codigoMunicipio":91430,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"LA VICTORIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a5"},"codigoMunicipio":25662,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SAN JUAN DE RIO SECO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a6"},"codigoMunicipio":15097,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"BOAVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a7"},"codigoMunicipio":15690,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SANTA MARIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a8"},"codigoMunicipio":54250,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"EL TARRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77a9"},"codigoMunicipio":54498,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"OCAÑA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77aa"},"codigoMunicipio":23466,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"MONTELIBANO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ab"},"codigoMunicipio":15109,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"BUENAVISTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ac"},"codigoMunicipio":85315,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"SACAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ad"},"codigoMunicipio":27787,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"TADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ae"},"codigoMunicipio":27745,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"SIPI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77af"},"codigoMunicipio":25245,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"EL COLEGIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b0"},"codigoMunicipio":50270,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"EL DORADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b1"},"codigoMunicipio":47268,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"EL RETEN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b2"},"codigoMunicipio":15761,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SOMONDOCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b3"},"codigoMunicipio":68773,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SUCRE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b4"},"codigoMunicipio":41548,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"PITAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b5"},"codigoMunicipio":13074,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"BARRANCO DE LOBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b6"},"codigoMunicipio":15621,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"RONDON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b7"},"codigoMunicipio":13006,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"ACHI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b8"},"codigoMunicipio":86569,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"PUERTO CAICEDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77b9"},"codigoMunicipio":50370,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"URIBE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ba"},"codigoMunicipio":13473,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"MORALES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77bb"},"codigoMunicipio":18753,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"SAN VICENTE DEL CAGUAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77bc"},"codigoMunicipio":5368,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"JERICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77bd"},"codigoMunicipio":25398,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"LA PEÑA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77be"},"codigoMunicipio":47189,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"CIENAGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77bf"},"codigoMunicipio":440101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7499"},"nombre":"BAHAMAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c0"},"codigoMunicipio":5380,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"LA ESTRELLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c1"},"codigoMunicipio":52540,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"POLICARPA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c2"},"codigoMunicipio":25120,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CABRERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c3"},"codigoMunicipio":99773,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a4"},"nombre":"CUMARIBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c4"},"codigoMunicipio":19256,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"EL TAMBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c5"},"codigoMunicipio":99524,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a4"},"nombre":"LA PRIMAVERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c6"},"codigoMunicipio":5282,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"FREDONIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c7"},"codigoMunicipio":44378,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"HATONUEVO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c8"},"codigoMunicipio":15104,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"BOYACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77c9"},"codigoMunicipio":23855,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"VALENCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ca"},"codigoMunicipio":73067,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ATACO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77cb"},"codigoMunicipio":76020,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"ALCALA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77cc"},"codigoMunicipio":25335,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GUAYABETAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77cd"},"codigoMunicipio":68377,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"LA BELLEZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ce"},"codigoMunicipio":19821,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"TORIBIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77cf"},"codigoMunicipio":44098,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"DISTRACCION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d0"},"codigoMunicipio":20400,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"LA JAGUA DE IBIRICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d1"},"codigoMunicipio":50124,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"CABUYARO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d2"},"codigoMunicipio":76147,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"CARTAGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d3"},"codigoMunicipio":13160,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"CANTAGALLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d4"},"codigoMunicipio":19693,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"SAN SEBASTIAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d5"},"codigoMunicipio":7240101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7492"},"nombre":"MADRID"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d6"},"codigoMunicipio":70702,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SAN JUAN DE BETULIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d7"},"codigoMunicipio":5400,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"LA UNION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d8"},"codigoMunicipio":86749,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"SIBUNDOY"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77d9"},"codigoMunicipio":15466,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"MONGUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77da"},"codigoMunicipio":63001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"ARMENIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77db"},"codigoMunicipio":8078,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"BARANOA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77dc"},"codigoMunicipio":20013,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"AGUSTIN CODAZZI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77dd"},"codigoMunicipio":73124,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"CAJAMARCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77de"},"codigoMunicipio":68755,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SOCORRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77df"},"codigoMunicipio":5234,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"DABEIBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e0"},"codigoMunicipio":19573,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"PUERTO TEJADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e1"},"codigoMunicipio":15580,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"QUIPAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e2"},"codigoMunicipio":5649,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN CARLOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e3"},"codigoMunicipio":70001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SINCELEJO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e4"},"codigoMunicipio":25841,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"UBAQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e5"},"codigoMunicipio":25175,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CHIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e6"},"codigoMunicipio":13894,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"ZAMBRANO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e7"},"codigoMunicipio":25258,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"EL PEÑON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e8"},"codigoMunicipio":41206,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"COLOMBIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77e9"},"codigoMunicipio":23675,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"SAN BERNARDO DEL VIENTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ea"},"codigoMunicipio":25653,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SAN CAYETANO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77eb"},"codigoMunicipio":41530,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"PALESTINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ec"},"codigoMunicipio":68572,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"PUENTE NACIONAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ed"},"codigoMunicipio":73352,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ICONONZO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ee"},"codigoMunicipio":25772,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SUESCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ef"},"codigoMunicipio":52490,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"OLAYA HERRERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f0"},"codigoMunicipio":94001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ac"},"nombre":"INIRIDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f1"},"codigoMunicipio":70230,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"CHALAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f2"},"codigoMunicipio":13780,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"TALAIGUA NUEVO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f3"},"codigoMunicipio":54128,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"CACHIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f4"},"codigoMunicipio":95001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a1"},"nombre":"SAN JOSE DEL GUAVIARE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f5"},"codigoMunicipio":70742,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"SAN LUIS DE SINCE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f6"},"codigoMunicipio":85139,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"MANI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f7"},"codigoMunicipio":47001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"SANTA MARTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f8"},"codigoMunicipio":8638,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"SABANALARGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77f9"},"codigoMunicipio":68147,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CAPITANEJO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77fa"},"codigoMunicipio":13655,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SAN JACINTO DEL CAUCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77fb"},"codigoMunicipio":5237,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"DON MATIAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77fc"},"codigoMunicipio":85430,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"TRINIDAD"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77fd"},"codigoMunicipio":17433,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"MANZANARES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77fe"},"codigoMunicipio":86755,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"SAN FRANCISCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a77ff"},"codigoMunicipio":25426,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"MACHETA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7800"},"codigoMunicipio":50686,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"SAN JUANITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7801"},"codigoMunicipio":5300101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7498"},"nombre":"ANTILLAS NEERLANDESAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7802"},"codigoMunicipio":27372,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"JURADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7803"},"codigoMunicipio":13744,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SIMITI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7804"},"codigoMunicipio":13442,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"MARIA LA BAJA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7805"},"codigoMunicipio":5837,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"TURBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7806"},"codigoMunicipio":25154,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CARMEN DE CARUPA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7807"},"codigoMunicipio":17088,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"BELALCAZAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7808"},"codigoMunicipio":8620101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ad"},"nombre":"VENEZUELA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7809"},"codigoMunicipio":8675,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"SANTA LUCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a780a"},"codigoMunicipio":5541,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"PEÑOL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a780b"},"codigoMunicipio":50313,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"GRANADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a780c"},"codigoMunicipio":47551,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"PIVIJAY"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a780d"},"codigoMunicipio":76834,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"TULUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a780e"},"codigoMunicipio":15572,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"PUERTO BOYACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a780f"},"codigoMunicipio":13654,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SAN JACINTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7810"},"codigoMunicipio":68307,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"GIRON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7811"},"codigoMunicipio":25745,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SIMIJACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7812"},"codigoMunicipio":19100,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"BOLIVAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7813"},"codigoMunicipio":85300,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"SABANALARGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7814"},"codigoMunicipio":25797,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TENA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7815"},"codigoMunicipio":27450,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"MEDIO SAN JUAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7816"},"codigoMunicipio":25513,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"PACHO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7817"},"codigoMunicipio":5147,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CAREPA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7818"},"codigoMunicipio":13657,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SAN JUAN NEPOMUCENO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7819"},"codigoMunicipio":47745,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"SITIONUEVO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a781a"},"codigoMunicipio":680101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748a"},"nombre":"BOLIVIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a781b"},"codigoMunicipio":68679,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SAN GIL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a781c"},"codigoMunicipio":54347,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"HERRAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a781d"},"codigoMunicipio":63130,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"CALARCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a781e"},"codigoMunicipio":5264,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ENTRERRIOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a781f"},"codigoMunicipio":17380,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"LA DORADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7820"},"codigoMunicipio":54673,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"SAN CAYETANO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7821"},"codigoMunicipio":52019,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"ALBAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7822"},"codigoMunicipio":15204,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"COMBITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7823"},"codigoMunicipio":47288,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"FUNDACION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7824"},"codigoMunicipio":81300,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7488"},"nombre":"FORTUL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7825"},"codigoMunicipio":68855,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"VALLE DE SAN JOSE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7826"},"codigoMunicipio":41001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"NEIVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7827"},"codigoMunicipio":76126,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"CALIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7828"},"codigoMunicipio":5652,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN FRANCISCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7829"},"codigoMunicipio":52405,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"LEIVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a782a"},"codigoMunicipio":13650,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SAN FERNANDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a782b"},"codigoMunicipio":73200,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"COELLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a782c"},"codigoMunicipio":15897,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"ZETAQUIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a782d"},"codigoMunicipio":"01-55","departamento_id":{"$oid":"68dd460fbd6faf8fd39a7482"},"nombre":"BRASIL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a782e"},"codigoMunicipio":13468,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"MOMPOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a782f"},"codigoMunicipio":25805,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TIBACUY"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7830"},"codigoMunicipio":17665,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"SAN JOSE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7831"},"codigoMunicipio":15778,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SUTATENZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7832"},"codigoMunicipio":70204,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"COLOSO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7833"},"codigoMunicipio":47205,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"CONCORDIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7834"},"codigoMunicipio":15238,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"DUITAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7835"},"codigoMunicipio":47555,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"PLATO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7836"},"codigoMunicipio":15600,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"RAQUIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7837"},"codigoMunicipio":76100,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"BOLIVAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7838"},"codigoMunicipio":25286,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"FUNZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7839"},"codigoMunicipio":8832,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"TUBARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a783a"},"codigoMunicipio":76622,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"ROLDANILLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a783b"},"codigoMunicipio":13549,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"PINILLOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a783c"},"codigoMunicipio":52435,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"MALLAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a783d"},"codigoMunicipio":15835,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TURMEQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a783e"},"codigoMunicipio":85400,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"TAMARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a783f"},"codigoMunicipio":50711,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"VISTAHERMOSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7840"},"codigoMunicipio":85125,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747d"},"nombre":"HATO COROZAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7841"},"codigoMunicipio":1520101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7484"},"nombre":"CHILE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7842"},"codigoMunicipio":15806,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TIBASOSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7843"},"codigoMunicipio":54261,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"EL ZULIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7844"},"codigoMunicipio":68820,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"TONA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7845"},"codigoMunicipio":41807,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"TIMANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7846"},"codigoMunicipio":25126,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CAJICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7847"},"codigoMunicipio":52233,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"CUMBITARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7848"},"codigoMunicipio":54109,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"BUCARASICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7849"},"codigoMunicipio":41357,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"IQUIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a784a"},"codigoMunicipio":18785,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"SOLITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a784b"},"codigoMunicipio":20787,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"TAMALAMEQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a784c"},"codigoMunicipio":54223,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"CUCUTILLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a784d"},"codigoMunicipio":18756,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"SOLANO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a784e"},"codigoMunicipio":68132,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CALIFORNIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a784f"},"codigoMunicipio":68101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"BOLIVAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7850"},"codigoMunicipio":68444,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"MATANZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7851"},"codigoMunicipio":15518,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"PAJARITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7852"},"codigoMunicipio":68245,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"EL GUACAMAYO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7853"},"codigoMunicipio":76869,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"VIJES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7854"},"codigoMunicipio":52352,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"ILES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7855"},"codigoMunicipio":76275,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"FLORIDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7856"},"codigoMunicipio":13062,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"ARROYOHONDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7857"},"codigoMunicipio":66045,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"APIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7858"},"codigoMunicipio":73443,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"MARIQUITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7859"},"codigoMunicipio":25148,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"CAPARRAPI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a785a"},"codigoMunicipio":54680,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"SANTIAGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a785b"},"codigoMunicipio":97666,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a9"},"nombre":"TARAIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a785c"},"codigoMunicipio":52390,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"LA TOLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a785d"},"codigoMunicipio":81794,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7488"},"nombre":"TAME"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a785e"},"codigoMunicipio":17001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"MANIZALES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a785f"},"codigoMunicipio":20383,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"LA GLORIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7860"},"codigoMunicipio":27495,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"NUQUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7861"},"codigoMunicipio":15425,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"MACANAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7862"},"codigoMunicipio":20001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"VALLEDUPAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7863"},"codigoMunicipio":18256,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"EL PAUJIL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7864"},"codigoMunicipio":20550,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"PELAYA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7865"},"codigoMunicipio":15176,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CHIQUINQUIRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7866"},"codigoMunicipio":5858,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"VEGACHI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7867"},"codigoMunicipio":63594,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"QUIMBAYA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7868"},"codigoMunicipio":19212,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"CORINTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7869"},"codigoMunicipio":15514,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"PAEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a786a"},"codigoMunicipio":5059,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ARMENIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a786b"},"codigoMunicipio":68615,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"RIONEGRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a786c"},"codigoMunicipio":52560,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"POTOSI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a786d"},"codigoMunicipio":25214,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"COTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a786e"},"codigoMunicipio":91405,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"LA CHORRERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a786f"},"codigoMunicipio":5040,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ANORI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7870"},"codigoMunicipio":68051,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"ARATOCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7871"},"codigoMunicipio":15757,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SOCHA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7872"},"codigoMunicipio":5308,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"GIRARDOTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7873"},"codigoMunicipio":68324,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"GUAVATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7874"},"codigoMunicipio":27660,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"SAN JOSE DEL PALMAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7875"},"codigoMunicipio":68573,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"PUERTO PARRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7876"},"codigoMunicipio":52788,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"TANGUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7877"},"codigoMunicipio":63212,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"CORDOBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7878"},"codigoMunicipio":5425,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"MACEO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7879"},"codigoMunicipio":68432,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"MALAGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a787a"},"codigoMunicipio":27150,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"CARMEN DEL DARIEN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a787b"},"codigoMunicipio":73861,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"VENADILLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a787c"},"codigoMunicipio":63111,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"BUENAVISTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a787d"},"codigoMunicipio":15183,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CHITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a787e"},"codigoMunicipio":68575,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"PUERTO WILCHES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a787f"},"codigoMunicipio":27001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"QUIBDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7880"},"codigoMunicipio":52694,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SAN PEDRO DE CARTAGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7881"},"codigoMunicipio":15001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TUNJA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7882"},"codigoMunicipio":52418,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"LOS ANDES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7883"},"codigoMunicipio":52506,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"OSPINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7884"},"codigoMunicipio":25871,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"VILLAGOMEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7885"},"codigoMunicipio":25572,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"PUERTO SALGAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7886"},"codigoMunicipio":25339,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GUTIERREZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7887"},"codigoMunicipio":5690,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SANTO DOMINGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7888"},"codigoMunicipio":5001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"MEDELLIN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7889"},"codigoMunicipio":54874,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"VILLA DEL ROSARIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a788a"},"codigoMunicipio":25312,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GRANADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a788b"},"codigoMunicipio":86573,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"LEGUIZAMO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a788c"},"codigoMunicipio":25019,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"ALBAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a788d"},"codigoMunicipio":5895,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ZARAGOZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a788e"},"codigoMunicipio":18479,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"MORELIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a788f"},"codigoMunicipio":19473,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"MORALES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7890"},"codigoMunicipio":23189,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"CIENAGA DE ORO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7891"},"codigoMunicipio":54245,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"EL CARMEN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7892"},"codigoMunicipio":50577,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"PUERTO LLERAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7893"},"codigoMunicipio":25402,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"LA VEGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7894"},"codigoMunicipio":63470,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"MONTENEGRO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7895"},"codigoMunicipio":20295,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"GAMARRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7896"},"codigoMunicipio":18247,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"EL DONCELLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7897"},"codigoMunicipio":19743,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"SILVIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7898"},"codigoMunicipio":15774,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SUSACON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7899"},"codigoMunicipio":19455,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"MIRANDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a789a"},"codigoMunicipio":41020,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"ALGECIRAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a789b"},"codigoMunicipio":73026,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ALVARADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a789c"},"codigoMunicipio":23350,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"LA APARTADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a789d"},"codigoMunicipio":5321,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"GUATAPE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a789e"},"codigoMunicipio":41298,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"GARZON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a789f"},"codigoMunicipio":15180,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CHISCAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a0"},"codigoMunicipio":1880101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7481"},"nombre":"COSTA RICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a1"},"codigoMunicipio":5660,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN LUIS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a2"},"codigoMunicipio":73547,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"PIEDRAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a3"},"codigoMunicipio":76041,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"ANSERMANUEVO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a4"},"codigoMunicipio":15223,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CUBARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a5"},"codigoMunicipio":47170,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"CHIBOLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a6"},"codigoMunicipio":68872,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"VILLANUEVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a7"},"codigoMunicipio":13600,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"RIO VIEJO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a8"},"codigoMunicipio":13244,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"EL CARMEN DE BOLIVAR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78a9"},"codigoMunicipio":68406,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"LEBRIJA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78aa"},"codigoMunicipio":68780,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SURATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ab"},"codigoMunicipio":52224,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"CUASPUD"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ac"},"codigoMunicipio":8549,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"PIOJO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ad"},"codigoMunicipio":25328,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GUAYABAL DE SIQUIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ae"},"codigoMunicipio":47545,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"PIJIÑO DEL CARMEN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78af"},"codigoMunicipio":13268,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"EL PEÑON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b0"},"codigoMunicipio":76001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"CALI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b1"},"codigoMunicipio":5120,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CACERES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b2"},"codigoMunicipio":20750,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"SAN DIEGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b3"},"codigoMunicipio":20570,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"PUEBLO BELLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b4"},"codigoMunicipio":19355,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"INZA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b5"},"codigoMunicipio":25873,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"VILLAPINZON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b6"},"codigoMunicipio":54800,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"TEORAMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b7"},"codigoMunicipio":86865,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"VALLE DEL GUAMUEZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b8"},"codigoMunicipio":5789,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"TAMESIS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78b9"},"codigoMunicipio":73055,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ARMERO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ba"},"codigoMunicipio":68229,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CURITI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78bb"},"codigoMunicipio":19300,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"GUACHENE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78bc"},"codigoMunicipio":97161,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a9"},"nombre":"CARURU"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78bd"},"codigoMunicipio":41551,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"PITALITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78be"},"codigoMunicipio":52240,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"CHACHAGUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78bf"},"codigoMunicipio":73043,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"ANZOATEGUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c0"},"codigoMunicipio":15832,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"TUNUNGUA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c1"},"codigoMunicipio":19513,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"PADILLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c2"},"codigoMunicipio":5030,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"AMAGA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c3"},"codigoMunicipio":5113,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"BURITICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c4"},"codigoMunicipio":76109,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"BUENAVENTURA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c5"},"codigoMunicipio":17513,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"PACORA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c6"},"codigoMunicipio":25386,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"LA MESA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c7"},"codigoMunicipio":68498,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"OCAMONTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c8"},"codigoMunicipio":73563,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"PRADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78c9"},"codigoMunicipio":25317,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GUACHETA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ca"},"codigoMunicipio":5665,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN PEDRO DE URABA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78cb"},"codigoMunicipio":15325,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"GUAYATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78cc"},"codigoMunicipio":97511,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a9"},"nombre":"PACOA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78cd"},"codigoMunicipio":13433,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"MAHATES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ce"},"codigoMunicipio":15776,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SUTAMARCHAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78cf"},"codigoMunicipio":23574,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"PUERTO ESCONDIDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d0"},"codigoMunicipio":18592,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"PUERTO RICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d1"},"codigoMunicipio":76823,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"TORO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d2"},"codigoMunicipio":25785,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"TABIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d3"},"codigoMunicipio":5440,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"MARINILLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d4"},"codigoMunicipio":50350,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"LA MACARENA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d5"},"codigoMunicipio":15131,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CALDAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d6"},"codigoMunicipio":15755,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SOCOTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d7"},"codigoMunicipio":5240,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"EBEJICO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d8"},"codigoMunicipio":23068,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"AYAPEL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78d9"},"codigoMunicipio":70265,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"GUARANDA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78da"},"codigoMunicipio":44078,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"BARRANCAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78db"},"codigoMunicipio":23586,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"PURISIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78dc"},"codigoMunicipio":13188,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"CICUCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78dd"},"codigoMunicipio":5002,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ABEJORRAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78de"},"codigoMunicipio":25438,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"MEDINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78df"},"codigoMunicipio":25779,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SUSA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e0"},"codigoMunicipio":5585,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"PUERTO NARE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e1"},"codigoMunicipio":5819,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"TOLEDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e2"},"codigoMunicipio":15322,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"GUATEQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e3"},"codigoMunicipio":18410,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7494"},"nombre":"LA MONTAÑITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e4"},"codigoMunicipio":73770,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"SUAREZ"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e5"},"codigoMunicipio":5091,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"BETANIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e6"},"codigoMunicipio":91536,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"PUERTO ARICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e7"},"codigoMunicipio":23168,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"CHIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e8"},"codigoMunicipio":27077,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"BAJO BAUDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78e9"},"codigoMunicipio":27615,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"RIOSUCIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ea"},"codigoMunicipio":73555,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"PLANADAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78eb"},"codigoMunicipio":25758,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SOPO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ec"},"codigoMunicipio":66318,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"GUATICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ed"},"codigoMunicipio":63690,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7495"},"nombre":"SALENTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ee"},"codigoMunicipio":27006,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"ACANDI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ef"},"codigoMunicipio":25843,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"VILLA DE SAN DIEGO DE UBATE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f0"},"codigoMunicipio":54720,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"SARDINATA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f1"},"codigoMunicipio":25260,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"EL ROSAL"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f2"},"codigoMunicipio":25769,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"SUBACHOQUE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f3"},"codigoMunicipio":15861,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"VENTAQUEMADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f4"},"codigoMunicipio":68770,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"SUAITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f5"},"codigoMunicipio":15248,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"EL ESPINO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f6"},"codigoMunicipio":91798,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"TARAPACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f7"},"codigoMunicipio":25322,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GUASCA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f8"},"codigoMunicipio":15599,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"RAMIRIQUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78f9"},"codigoMunicipio":27099,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"BOJAYA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78fa"},"codigoMunicipio":76892,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"YUMBO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78fb"},"codigoMunicipio":27025,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"ALTO BAUDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78fc"},"codigoMunicipio":25040,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"ANOLAIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78fd"},"codigoMunicipio":5631,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SABANETA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78fe"},"codigoMunicipio":13052,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"ARJONA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a78ff"},"codigoMunicipio":76306,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"GINEBRA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7900"},"codigoMunicipio":73270,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"FALAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7901"},"codigoMunicipio":15632,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SABOYA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7902"},"codigoMunicipio":86760,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"SANTIAGO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7903"},"codigoMunicipio":54405,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747b"},"nombre":"LOS PATIOS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7904"},"codigoMunicipio":25867,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"VIANI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7905"},"codigoMunicipio":5004,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ABRIAQUI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7906"},"codigoMunicipio":15664,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SAN JOSE DE PARE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7907"},"codigoMunicipio":25372,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"JUNIN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7908"},"codigoMunicipio":13810,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"TIQUISIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7909"},"codigoMunicipio":52256,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"EL ROSARIO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a790a"},"codigoMunicipio":91001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749c"},"nombre":"LETICIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a790b"},"codigoMunicipio":20011,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"AGUACHICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a790c"},"codigoMunicipio":76036,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"ANDALUCIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a790d"},"codigoMunicipio":41006,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747c"},"nombre":"ACEVEDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a790e"},"codigoMunicipio":95200,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a1"},"nombre":"MIRAFLORES"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a790f"},"codigoMunicipio":5647,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"SAN ANDRES DE CUERQUIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7910"},"codigoMunicipio":27245,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7493"},"nombre":"EL CARMEN DE ATRATO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7911"},"codigoMunicipio":25845,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"UNE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7912"},"codigoMunicipio":68211,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CONTRATACION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7913"},"codigoMunicipio":23162,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"CERETE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7914"},"codigoMunicipio":20710,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"SAN ALBERTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7915"},"codigoMunicipio":99001,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a4"},"nombre":"PUERTO CARREÑO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7916"},"codigoMunicipio":76122,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"CAICEDONIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7917"},"codigoMunicipio":25295,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GACHANCIPA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7918"},"codigoMunicipio":23807,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"TIERRALTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7919"},"codigoMunicipio":5280102,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7497"},"nombre":"PUERTO VLISSINGEN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a791a"},"codigoMunicipio":76318,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"GUACARI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a791b"},"codigoMunicipio":15660,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"SAN EDUARDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a791c"},"codigoMunicipio":70523,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74af"},"nombre":"PALMITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a791d"},"codigoMunicipio":8606,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"REPELON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a791e"},"codigoMunicipio":52835,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"SAN ANDRES DE TUMACO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a791f"},"codigoMunicipio":20178,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7491"},"nombre":"CHIRIGUANA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7920"},"codigoMunicipio":47980,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"ZONA BANANERA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7921"},"codigoMunicipio":66440,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a2"},"nombre":"MARSELLA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7922"},"codigoMunicipio":5475,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"MURINDO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7923"},"codigoMunicipio":86568,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"PUERTO ASIS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7924"},"codigoMunicipio":52612,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"RICAURTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7925"},"codigoMunicipio":8573,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"PUERTO COLOMBIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7926"},"codigoMunicipio":76364,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"JAMUNDI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7927"},"codigoMunicipio":13670,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748b"},"nombre":"SAN PABLO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7928"},"codigoMunicipio":15522,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"PANQUEBA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7929"},"codigoMunicipio":19845,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"VILLA RICA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a792a"},"codigoMunicipio":19760,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"SOTARA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a792b"},"codigoMunicipio":76890,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"YOTOCO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a792c"},"codigoMunicipio":73217,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ae"},"nombre":"COYAIMA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a792d"},"codigoMunicipio":25506,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"VENECIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a792e"},"codigoMunicipio":23670,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74ab"},"nombre":"SAN ANDRES SOTAVENTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a792f"},"codigoMunicipio":47258,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a747f"},"nombre":"EL PIÑON"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7930"},"codigoMunicipio":5266,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"ENVIGADO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7931"},"codigoMunicipio":15293,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"GACHANTIVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7932"},"codigoMunicipio":25099,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"BOJACA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7933"},"codigoMunicipio":86320,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a3"},"nombre":"ORITO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7934"},"codigoMunicipio":76054,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"ARGELIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7935"},"codigoMunicipio":25269,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"FACATATIVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7936"},"codigoMunicipio":19532,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"PATIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7937"},"codigoMunicipio":44874,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749b"},"nombre":"VILLANUEVA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7938"},"codigoMunicipio":5134,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"CAMPAMENTO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7939"},"codigoMunicipio":68013,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"AGUADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a793a"},"codigoMunicipio":2180101,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7486"},"nombre":"ECUADOR"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a793b"},"codigoMunicipio":19364,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"JAMBALO"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a793c"},"codigoMunicipio":76403,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a8"},"nombre":"LA VICTORIA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a793d"},"codigoMunicipio":5313,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"GRANADA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a793e"},"codigoMunicipio":68867,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"VETAS"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a793f"},"codigoMunicipio":68370,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"JORDAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7940"},"codigoMunicipio":15244,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"EL COCUY"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7941"},"codigoMunicipio":68320,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"GUADALUPE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7942"},"codigoMunicipio":25612,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"RICAURTE"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7943"},"codigoMunicipio":25297,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748f"},"nombre":"GACHETA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7944"},"codigoMunicipio":15172,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74aa"},"nombre":"CHINAVITA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7945"},"codigoMunicipio":68169,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748c"},"nombre":"CHARTA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7946"},"codigoMunicipio":8849,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a7483"},"nombre":"USIACURI"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7947"},"codigoMunicipio":50568,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748d"},"nombre":"PUERTO GAITAN"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7948"},"codigoMunicipio":19075,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74b0"},"nombre":"BALBOA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a7949"},"codigoMunicipio":52399,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a74a7"},"nombre":"LA UNION"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a794a"},"codigoMunicipio":17174,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a749d"},"nombre":"CHINCHINA"}
+{"_id":{"$oid":"68dd4738bd6faf8fd39a794b"},"codigoMunicipio":5353,"departamento_id":{"$oid":"68dd460fbd6faf8fd39a748e"},"nombre":"HISPANIA"}
